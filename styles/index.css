@@ -206,7 +206,7 @@ html {
 }
 
 h2 {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-weight: bold;
 }
 
@@ -218,7 +218,7 @@ h2 {
 }
 
 .education-item p {
-    font-size: 10px;
+    font-size: 0.9rem;
     font-weight: lighter;
     font-style: italic;
 }
@@ -237,7 +237,7 @@ h2 {
 }
 
 .experience-item p{
-    font-size: 10px;
+    font-size: 0.9rem;
     font-weight: lighter;
     font-style: italic;
 }
@@ -369,7 +369,7 @@ h2 {
 .project-item.left.grab p {
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
-    font-size: 16px;
+    font-size: 0.9rem;
     color: #555; 
     margin-bottom: 15px;
     opacity: 80%;
@@ -427,7 +427,7 @@ h2 {
 .project-item.left.libeery p {
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
-    font-size: 16px;
+    font-size: 0.9rem;
     color: #555; 
     margin-bottom: 15px;
     opacity: 80%;
@@ -507,7 +507,7 @@ h2 {
 
 .project-item.right.lapak-kita .project-description p {
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 0.9rem;
     color: #555;
     opacity: 80%;
 }
@@ -556,7 +556,7 @@ h2 {
 
 .project-item.right.cookability .project-description p {
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 0.9rem;
     color: #555;
     opacity: 80%;
 }
@@ -644,7 +644,7 @@ h2 {
 
 .project-coming-soon .project-description p {
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 0.9rem;
     color: #555;
     opacity: 80%;
 }
